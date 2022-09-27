@@ -1,5 +1,5 @@
-# The "Rock - Paper - Scissors" Game
-A console-based C# implementation of the "Rock - Paper - Scissors" game.
+# The "Rock Paper Scissors" Game
+A console-based C# implementation of the "Rock Paper Scissors" game.
 
 ![4754a0ccadd88c10d8e1c315569542fa--rock-t-shirts-rock-paper-scissors](https://user-images.githubusercontent.com/112023119/192536398-a272aa4f-7ba1-4e2b-9e25-62cdf7512f8f.jpg)
 
